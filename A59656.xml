@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certaine proposals for regulating the law to make the same more plaine and easie to bee understood, and lesse chargeable and expensive then heretofore.</title>
+            <author>Shepheard, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59656</idno>
+            <idno type="STC">Wing S3102A</idno>
+            <idno type="STC">ESTC R221120</idno>
+            <idno type="EEBO-CITATION">99832488</idno>
+            <idno type="PROQUEST">99832488</idno>
+            <idno type="VID">36961</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59656)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36961)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2059:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certaine proposals for regulating the law to make the same more plaine and easie to bee understood, and lesse chargeable and expensive then heretofore.</title>
+                  <author>Shepheard, John.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1652?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>By John Shepheard.</note>
+                  <note>Imprint conjectured by Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Great Britain --  Early works to 1800.</term>
+               <term>Law reform --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:36961:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <head>CERTAINE PROPOSALS FOR Regulating the Law, to make the ſame more plaine and eaſie to bee underſtood, and leſſe Charge<g ref="char:EOLhyphen"/>able and expenſive then heretofore.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Irſt, I take for an undeniable principle, that the Law which ſo much concernes every man, ought not to bee a Myſterie, but as much as poſſible be made moſt proſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>icu<g ref="char:EOLhyphen"/>ous and evident to the meaneſt capacitie, nothing be<g ref="char:EOLhyphen"/>ing more unjuſt then for a man to be judged by a law of which hee was unavoydably ignorant. For if wee conſider the riſe and originall of all Lawes, be<g ref="char:EOLhyphen"/>cauſe men knew not when they did well, when they did evill, what was theirs what not theirs; they in<g ref="char:EOLhyphen"/>ſtituted Lawes to the end every man might know his Duty and the penalty of tranſgreſſing. Moreover, it is a maxime in our own Law, that ignorance thereof excuſeth no man, but every man is preſumed to bee
+<pb facs="tcp:36961:2"/>
+               <!-- PDF PAGE 26 -->
+               <pb n="1" facs="tcp:36961:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 26 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:36961:3"/>
+               <!-- PDF PAGE 27 -->conuſant thereof. And it is a true ſaying, <hi>Miſera est ſervitus ubi jus est vagum aut incognitum,</hi> It is a miſerable ſlavery where the Law is incertain or un<g ref="char:EOLhyphen"/>knowne; a wonder it was to all wiſe men even to the ingenuous of the Profeſſors of the Law themſelves, that the Law ſhould bee kept ſo cloſe lockt up in an unknowne tongue, when the reaſon why the Lawes were firſt written in that brackiſh <hi>French,</hi> was becauſe that Language was then beſt underſtood of thoſe whom thoſe lawes moſt concern'd <hi>(viz.)</hi> the <hi>Normans.</hi>
+            </p>
+            <p>Therefore bleſſed be God, it hath been and ſtill is the Wiſdome and Integritie of the PARLIAMENT, to make the Lawes ſo plain and obvious to every un<g ref="char:EOLhyphen"/>derſtanding, that every man might know his duty and his property.</p>
+            <p>The Lawes of this Land are eyther Criminall or Civill; as for the criminall Lawes they are not ſo many or myſterious, but with a little ſtudy a man may attaine to a competent knowledge thereof; but for the Civill lawes, eſpecially thoſe which concerne Lands, they are infinitly Intricate, myſticall, and ex<g ref="char:EOLhyphen"/>penſive. Now becauſe when a Diſeaſe is knowne it is halfe cured, that which I conceive is the cauſe thereof, is multiplicity and diverſity of Tenures, and Conveyances, together with the ſecret and clande<g ref="char:EOLhyphen"/>ſtine making of Conveyances. There are not ſo lit<g ref="char:EOLhyphen"/>tle as Ten ſeverall wayes whereby men may convey eſtates of Inheritance, upon every of which depends ſuch innumerable quirkes and intricacies, all of them having ſeverall operations, that men which make it their whole ſtudies all their lives long, can hardly if at all come to ſome reaſonable knowledge thereof.</p>
+            <pb n="3" facs="tcp:36961:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <div type="proposals">
+               <head>
+                  <hi>Now that which I propoſe for the Remedy of this evill is</hi> —</head>
+               <p n="1">1. THat all Eſtates of Inheritances as well Free-hold as Copy-hold, might bee but of one Tenure, to wit, Fee ſimple. Entailes, my L. <hi>Cooke</hi> being Judge, having ſo fetter'd and intangled mens Eſtates, that in<g ref="char:EOLhyphen"/>finite are the controverſies which do ari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e thereupon. And to the end no man might be a looſer hereby nor any mans Property deſtroyed, certain Commiſſioners not of the ſame County might be authoriſed to Aſ<g ref="char:EOLhyphen"/>ſigne and apportion to every Lord of Mannor, ſome part of the Tenancy in liew of his chief Rents, Heri<g ref="char:EOLhyphen"/>ots, and proquiſites of Courts, &amp;c. in caſe the Lord and Tenant did not agree between themſelves.</p>
+               <p n="2">2. That there might bee but one kind of Convey<g ref="char:EOLhyphen"/>ance for all Eſtates of Inheritance <hi>(viz.)</hi> a Feofment in fee executed with Livery and Seiſin, or atturnment and intolement in the proper County.</p>
+               <p n="3">3. That every Leaſe longer then for Seven yeares, and all Wills that concerne Lands, ſhould be by wri<g ref="char:EOLhyphen"/>ting to be inrolled likewiſe as aforeſaid.</p>
+            </div>
+            <div type="results">
+               <head>
+                  <hi>If this were done, I am perſwaded the Law</hi> —</head>
+               <p>1. Would be reduced into one conſiderable volume, which now a ſmall Library doth not containe; and there being but one Tenure and one kind of Convey<g ref="char:EOLhyphen"/>ance, every man almoſt without Herculaean labour might attaine to ſome competent knowledge thereof. And I would gladly know, why there ſhould bee ſo many ſorts of Conveyances when one will ſerve the turne; unleſſe it be to make the Law more myſticall.</p>
+               <p>
+                  <hi>Fruſtra fit per p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ura quod fieri poſsit per pauc<gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>ora.</hi>
+               </p>
+               <pb n="4" facs="tcp:36961:4"/>
+               <!-- PDF PAGE 28 -->
+               <p n="2">2. The exceſſive expence and chargeable ceremo<g ref="char:EOLhyphen"/>nies of Fines and Recoveries, would be ſaved.</p>
+               <p>If in like manner all Conveyances were inrolled, then would there be plain dealing above-boord, the Common-wealth (1.) ſhould bee ſure of their Eſ<g ref="char:EOLhyphen"/>cheats and forfeitures upon any Treaſon committed or otherwiſe.</p>
+               <p n="2">2. Purchaſers ſhould deale upon ſure grounds, and not purchaſe a multitude of ſuites and troubles, in ſtead of an eſtate.</p>
+               <p n="3">3. Farmers ſhould be ſure of their bargaines, when they are ſure their Landlords have good eſtates.</p>
+               <p n="4">4. Creditors ſhould be ſure of their Debts, whereas now men of very great eſtates in Lands, ſo convey and intangle them, that a Creditor can take no ad<g ref="char:EOLhyphen"/>vantage againſt them.</p>
+               <p n="5">5. Men upon Marriages of their Daughters ſhall be much more ſure of Joinctures; and in generall, in all Contracts and bargaines there would bee much more certainty, which is the mother of quiet and re<g ref="char:EOLhyphen"/>poſe; whereas now who ſees not the innumerable controverſies doe ariſe upon ſecret and clandeſtine Conveyances: alſo what abundance of Suites are commenced upon ſuppoſition that they have right but cannot come to know the certainty, becauſe they can not come to ſight of Evidence. How many poore Widowes, Orphans, and others looſe their right by reaſon their Evidences are imbezeled. Theſe and many more miſchiefes would be remedied by inrole<g ref="char:EOLhyphen"/>ment of Conveyances in the County.</p>
+               <pb n="5" facs="tcp:36961:4" rendition="simple:additions"/>
+               <!-- PDF PAGE 28 -->
+               <p>Now next of all let us conſider what may bee the Incon<g ref="char:EOLhyphen"/>veniencies which may ariſe hereupon.</p>
+               <p>And firſt it may be objected, that for Copy-holds the alte<g ref="char:EOLhyphen"/>ration would bee very great; and that all Copie-holds paſſe by Surrender which doe amount to aſmuch as the Inrolement mentioned.</p>
+               <p>For anſwer thereunto it is confeſſed, That Copie-hold E<g ref="char:EOLhyphen"/>ſtates by reaſon thereof, are not lyable to fraudulent Convey<g ref="char:EOLhyphen"/>ances, and therefore there doe not ſo many ſuites ariſe concer<g ref="char:EOLhyphen"/>ning Copie-holds as of Free-hold. Yet notwithſtanding, they being not extendible for Debts (which is a thing very unreaſo<g ref="char:EOLhyphen"/>nable in my judgement, that a man ſhould have any Eſtate not lyable to the payment of his Debts) but chiefly, becauſe they retaine in them as yet more of Villenage and ſlavery, by rea<g ref="char:EOLhyphen"/>ſon of the arbitrary Fines, Herriots, Oathes, and ſuites of Court due to the Lord then is well conſiſtent with the Freedome and liberty of <hi>Engliſh-men.</hi> And to the end the Law might bee the more eaſie and plaine to be underſtood, and all occaſions of Controverſies aſmuch as poſſible might be removed. J ſuppoſe it beſt that as aforeſaid, all Eſtates of Inheritance of Copie-hold might bee made free, and all leſſer Eſtates made onely lyable to certaine Rents, as of Free-hold lands.</p>
+               <p n="2">2. It may bee objected, That it would be inconvenient to take away Entailes, whereby ſome would looſe the benefit of Reverſions after thoſe eſtates ended. As to that wee know eve<g ref="char:EOLhyphen"/>ry Tenant intayl at this day may at his pleaſure make it Fee-ſimple. And for any thing elſe may bee ſayd therein, my Lord <hi>Cooke</hi> in his firſt <hi>Inſtitutes, fol.</hi> 19. <hi>b.</hi> ſhall anſwer for me in theſe words. <hi>(When all Eſtates were Fee-ſimple, then were Purchaſers ſure of their Purchaſes, Farmers of their Leaſes, Creditors of their Debts, the King and Lords had their Eſ<g ref="char:EOLhyphen"/>cheates, Forfeitures, Wardſhips, and other profits of their Seig<g ref="char:EOLhyphen"/>niories; and for theſe and for other like cauſes, by the wiſdome of the</hi> Common-law, <hi>all Eſtates of inheritance were Fee-ſimple; and what Contentions and miſchtefes have crept into the quiet of the Law by theſe fettered Inheritances, daily
+<pb facs="tcp:36961:5"/>
+                     <!-- PDF PAGE 29 -->Experience teacheth vs.)</hi> So that for this change there is a ſuffi<g ref="char:EOLhyphen"/>cient Preſident, the ancient <hi>Common-law</hi> of this Land, and the advice of him who knew the Lawes of this land aſwell as moſt that ever ſtudied the ſame, <hi>(viz.)</hi> the Lord <hi>Cooke.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>Then alſo concerning the Inrolments aforeſaid,</hi> —</head>
+               <p n="1">1. It may be objected, That a man cannot borrow money upon a Morgage without letting the Countrey know thereof; now as for that J conceive it no great matter, if hee that is rich bee ſo eſteemed, and hee that is poore be ſo reputed.</p>
+               <p n="2">2. But then the maine objection will bee, There be many Conveyances which if examined would be found defective, whereby Eſtates which have long continued in a Family might bee carried away to others. which in ſtead of ending Contro<g ref="char:EOLhyphen"/>verſies would beget new.</p>
+               <p>For anſwer to which, that admit it were ſo, yet that would be but onely for the preſent, and after the firſt Suit it would be ſetled for Poſterity. Moreover, it would but helpe thoſe to poſſeſſion to whom the Law had given moſt right.</p>
+               <p>But for remedy of ſuch like Inconveniencies, was a profita<g ref="char:EOLhyphen"/>ble Statute made in the 21. yeare of King <hi>James, (viz.)</hi> That after 20. yeares quiet Poſſeſſion, no action ſhould bee com<g ref="char:EOLhyphen"/>menced, unleſſe in caſe of Infancie, Coverture, or the like; which Statute if it were inlarged and put in execution would ſalve that ſore ſufficiently.</p>
+               <p>The next Propoſall for to remedy delayes in Suites<g ref="char:punc">▪</g> and to take away exceſſive Charge; is to take away Arreſts in the beginning of ſuites. It would require a volume of it ſelfe to ſhew the exceſſive expence<g ref="char:punc">▪</g> the great delayes of Juſtice, the briberies and extortion by Sheriffes and Bayliffes, the batteries, barbarous cruelties, and many times Murthers, and many other inconveniencies which doe flow from this wicked fountaine of Arreſts.</p>
+               <p>As for Example; a Noble-man or Great man, owes me 10, or 20. <abbr>l.</abbr> perhaps for wages or ſome other thing, for twice it
+<pb n="7" facs="tcp:36961:5" rendition="simple:additions"/>
+                  <!-- PDF PAGE 29 -->may beeten times my debt, J cannot get him arreſted, and un<g ref="char:EOLhyphen"/>till hee be arreſted J can never ſo much as proceed in my ſuite; and if after disburſement of a great ſumme, J get him appre<g ref="char:EOLhyphen"/>hended I ſhall have ſome five ſhillings allowed towards it by the Court. So if a man live in ſome Priviledged places, or ra<g ref="char:EOLhyphen"/>ther which uſurp ſuch priviledges there they ſecure themſelves, and bee their Eſtates never ſo great can by no meanes be layd hold on to pay their juſt debts. It would be too tedious to give inſtances of ſculking wandring perſons, and of ſome that ſe<g ref="char:EOLhyphen"/>cure themſelves by the company of lewd and deſperate fellows, that they can not be apprehended without abundance of charge and oftentimes danger of life; theſe Miſchiefes are ſo well knowne that I need not further ſet them forth. I appeale to many mens experience, whether if the arreſt of divers perſons would not coſt them more then all the charges of Suite beſides, nay and their proper Debts to boot; and how many yeares men may wait through the corruption of under-Sheriffes and their Bayliffes, before they can get a Debtor arreſted, when if they were once taken the ſuite would come to Execution in three quarters of a yeare at moſt without much charge.</p>
+               <p>Now for remedy hereof, J ſuppoſe a ſufficient Summons might ſerve turne well enough, and ſo in default of not An<g ref="char:EOLhyphen"/>ſwering, the Plaintiffe upon proofe and evidence-given might proceed to Judgement and Execution. For my owne part I confeſſe. I ſee no ſatisfactory reaſon but that every man, aſwell as Tradeſmen, might bee brought within the Statute of <hi>Banck<g ref="char:EOLhyphen"/>rupts.</hi> All that ever a Tradeſman hath muſt be ſold to pay his Debts; and why other mens Eſtates who are as juſtly indebt<g ref="char:EOLhyphen"/>ed, as they, ſhould not; in true reaſon I doe not underſtand. The Law ſeemes to me, too mild and remiſſe againſt the eſtates of Debtors, and againſt their perſons as much too rigid and ſevere.</p>
+               <pb n="8" facs="tcp:36961:6"/>
+               <!-- PDF PAGE 30 -->
+               <p>Another Propoſall is, that Experience doth ſhew what very great delayes and intollerable charges ariſe, from being toſſed from Court to Court, <hi>(viz.)</hi> from <hi>Chancery</hi> to <hi>Common-law,</hi> and ſo back againe; nay, J am perſwaded that not one cauſe of tenne, eſpecially if of any conſequence, but firſt or laſt comes into the <hi>Chancery</hi> meerly for delayes; by which meanes peaceable minded men, will rather give away halfe their right then be troubled to ſue for it.</p>
+               <p>Now the remedy hereof, I ſuppoſe might bee to impower the Common-law Courts with equitable Jurisdiction, that the ſame Court might aſwell determine the Equity, as the Law of every caſe.</p>
+               <p>Another thing very neceſſary would bee, That the Act for reliefe of Debtors might extend to perſons which now are, or hereafter ſhall be Impriſoned.</p>
+               <p>Laſtly, it were to bee wiſhed, That the Committee <hi>for the Regulating of the Law,</hi> would procure ſome learned in the Lawes who might be well Fee'd for their paines, to argue and ſet forth before them the Inconveniencies on the one ſide with the profit, and commodity on the other which may ariſe on theſe or the like Alterations their worke would be much more eaſie, and they themſelves the better able to ponder and judge what is fit to be done; it would not bee Time, labour, or mo<g ref="char:EOLhyphen"/>ney ill ſpent, to procure good and wholſome Lawes for our ſelves and Poſterity.</p>
+            </div>
+            <trailer>Finis.</trailer>
+            <pb facs="tcp:36961:6"/>
+            <!-- PDF PAGE 30 -->
+         </div>
+      </body>
+   </text>
+</TEI>
